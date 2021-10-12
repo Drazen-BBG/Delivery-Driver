@@ -15,7 +15,7 @@ public class Delivery : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("You Collided, Ouch!!!");
+        //Debug.Log("You Collided, Ouch!!!");
     }
 
     private void Start()
